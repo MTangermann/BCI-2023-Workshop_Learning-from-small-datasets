@@ -58,7 +58,7 @@ _Geometric transfer learning with PyRiemann (integrating examples from PyRiemann
 **Resources:**
 
 
-
+- Pre-trained neural networks for motor imagery decoding (Pierre Guetschel): https://neurotechlab.socsci.ru.nl/resources/pretrained_imagery_models/
 
 
 
