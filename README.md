@@ -57,7 +57,7 @@ _Geometric transfer learning with PyRiemann (integrating examples from PyRiemann
 
 ## Resources:
 - please add your link here to your toolboxes, demos etc.
-- Unsupervised mean-difference maximization toolbox: 
+- Unsupervised mean-difference maximization toolbox: https://github.com/jsosulski/umm_demo
 
 
 - Pre-trained neural networks for motor imagery decoding (Pierre Guetschel): https://neurotechlab.socsci.ru.nl/resources/pretrained_imagery_models/
