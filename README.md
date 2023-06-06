@@ -10,7 +10,7 @@ Training up a decoding model based on as few possible training data points as po
 
 ## Organizers:
 
-- Michael Tangermann, Jordy Thielen, Pierre Guetschel, Matthias Dold
+- Michael Tangermann, Jordy Thielen, Pierre Guetschel, Matthias Dold, Jan Sosulski
 Data-driven Neurotechnology lab, Donders Institute, Radboud University, Nijmegen, The Netherlands
 
 - Joana Pereira
