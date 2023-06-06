@@ -34,25 +34,25 @@ RIKEN Center for Advanced Intelligence Project (AIP), Tokyo, Japan
 
 ## Presentations:
 
-Matthias Dold (presenter), Sebastian Castano, Joana Pereira
+Matthias Dold (presenter), Sebastian Castano, Joana Pereira: 
 _Post-hoc EEG labelling for data-efficient benchmarking and model pre-training_
 
-Jordy Thielen
+Jordy Thielen: 
 _Efficient decoding of code-modulated evoked responses._
 
-Michael Tangermann (presenter), Jan Sosulski
+Michael Tangermann (presenter), Jan Sosulski: 
 _Novel sample-efficient classification approaches for ERP data: Time-decoupled LDA, Toeplitz-LDA, UMM_
 
-Pierre Guetschel
+Pierre Guetschel: 
 _Embeddings for fast subject-to-subject transfer learning with motor imagery data_
 
-Reinmar Kobler
+Reinmar Kobler: 
 _Geometric deep learning to bridge Riemannian transfer learning with end-to-end learning_
 
-Theodore Papadopoulo
+Theodore Papadopoulo: 
 _Toward everyday BCI: Augmented Covariance Method in a reduced dataset setting_
 
-Sylvain Chevallier
+Sylvain Chevallier: 
 _Geometric transfer learning with PyRiemann (integrating examples from PyRiemann toolbox)_
 
 ## Resources:
