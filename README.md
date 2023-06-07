@@ -60,6 +60,7 @@ _Geometric transfer learning with PyRiemann (integrating examples from PyRiemann
 - Analysis of code-modulated (visual) evoked potentials: https://neurotechlab.socsci.ru.nl/resources/cvep
 - Unsupervised mean-difference maximization toolbox: https://github.com/jsosulski/umm_demo
 - Pre-trained neural networks for motor imagery decoding (Pierre Guetschel): https://neurotechlab.socsci.ru.nl/resources/pretrained_imagery_models/
+- Geometric transfer learning with PyRiemann: https://pyriemann.readthedocs.io/en/latest/auto_examples/index.html#transfer-learning
 
 
 
