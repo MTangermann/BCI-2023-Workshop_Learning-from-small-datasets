@@ -62,7 +62,7 @@ _Geometric transfer learning with PyRiemann (integrating examples from PyRiemann
 - Pre-trained neural networks for motor imagery decoding (Pierre Guetschel): https://neurotechlab.socsci.ru.nl/resources/pretrained_imagery_models/
 - Geometric transfer learning with PyRiemann: https://pyriemann.readthedocs.io/en/latest/auto_examples/index.html#transfer-learning
 - Augmented Covariance Method in a reduced dataset setting: https://github.com/carraraig/ACM-in-Reduced-Dataset-Setting
-
+- Geometric deep learning with TSMNet: https://github.com/rkobler/TSMNet/
 
 
 
