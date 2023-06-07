@@ -49,7 +49,7 @@ _Embeddings for fast subject-to-subject transfer learning with motor imagery dat
 Reinmar Kobler: 
 _Geometric deep learning to bridge Riemannian transfer learning with end-to-end learning_
 
-Theodore Papadopoulo: 
+Igor Carrara, Théodore Papadopoulo (presenter): 
 _Toward everyday BCI: Augmented Covariance Method in a reduced dataset setting_
 
 Sylvain Chevallier: 
