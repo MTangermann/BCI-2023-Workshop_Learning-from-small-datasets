@@ -63,7 +63,8 @@ _Geometric transfer learning with PyRiemann (integrating examples from PyRiemann
 - Geometric transfer learning with PyRiemann: https://pyriemann.readthedocs.io/en/latest/auto_examples/index.html#transfer-learning
 - Augmented Covariance Method in a reduced dataset setting: https://github.com/carraraig/ACM-in-Reduced-Dataset-Setting
 - Geometric deep learning with TSMNet: https://github.com/rkobler/TSMNet/
-
+- Talk about Post-Hoc Relabeling: https://matthiasdold.github.io/post_hoc_relabeling_talk/
+- Notebook for testing post-hoc relabeling with rCSP: https://github.com/bsdlab/BCIC2023_posthoc
 
 
 
